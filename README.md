@@ -8,3 +8,6 @@ All brand collateral is licensed under  [CC BY-NC-ND 4.0 Deed](https://creativec
 
 #### CONTRIBUTERS CODE OF CONDUCT
 All contributions to this repository are to respect the [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct)
+
+#### PARTNERSHIPS PITCHDECK
+Does your organization use Rust or want to use Rust, [view our partneship pitchdeck](/RustaceansKenya-Partnerships-deck.pdf)
